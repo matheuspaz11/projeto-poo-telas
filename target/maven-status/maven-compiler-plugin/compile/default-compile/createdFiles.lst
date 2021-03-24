@@ -1,0 +1,10 @@
+com/ufc/poo/sorveteria/SorveteriaApplication.class
+com/ufc/poo/sorveteria/model/enums/Tipo.class
+com/ufc/poo/sorveteria/services/ClienteService.class
+com/ufc/poo/sorveteria/repository/ProdutoRepository.class
+com/ufc/poo/sorveteria/model/Cliente.class
+com/ufc/poo/sorveteria/model/Pedido.class
+com/ufc/poo/sorveteria/model/Produto.class
+com/ufc/poo/sorveteria/model/Venda.class
+com/ufc/poo/sorveteria/repository/ClienteRepository.class
+com/ufc/poo/sorveteria/exceptions/NotFoundException.class
